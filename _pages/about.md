@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSc Computer Science and Engineering, <a href='https://tecnico.ulisboa.pt/'>IST</a>.
+subtitle: M.Sc. Computer Science and Engineering, <a href='https://tecnico.ulisboa.pt/'>IST</a>.
 
 profile:
   align: right
