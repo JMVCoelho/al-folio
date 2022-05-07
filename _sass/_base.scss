@@ -131,6 +131,8 @@ blockquote {
 
 // Navbar customization
 
+.noclick{ display:none;}
+
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
