@@ -1,10 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A select collection of my research and intern projects in reverse chronological order.
 nav: true
-display_categories: [work, fun]
+#display_categories: [research, intern]
+display_categories: 
 horizontal: false
 ---
 

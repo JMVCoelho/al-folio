@@ -1,11 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+## Instituto Superior Técnico
+
+Teaching Assistant
+
+**Search and Planning**: [2021/2022](https://fenix.tecnico.ulisboa.pt/disciplinas/PPla/2021-2022/1-semestre), [2022/2023](#)
+
+**Artificial Intelligence**: [2021/2022](https://fenix.tecnico.ulisboa.pt/disciplinas/IArt2/2021-2022/2-semestre), [2022/2023](#)
