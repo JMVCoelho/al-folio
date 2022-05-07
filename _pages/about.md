@@ -10,7 +10,7 @@ profile:
   address: >
     <p>(+351) 93 96 76 355</p>
     <p>Lisbon, Portugal</p>
-    <a href="https://jmvcoelho.github.io/docs/cv.pdf">Download CV</a>
+    <a href="https://jmvcoelho.github.io/assets/pdf/cv.pdf">Download CV</a>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
