@@ -2,7 +2,7 @@
 layout: page
 title: "AppRecommender"
 enable_hyperlink: true
-img: assets/img/cropped-apprecommender-logo-1.png
+#img: assets/img/cropped-apprecommender-logo-1.png
 redirect: https://apprecommender.caixamagica.pt/
 description: |
 

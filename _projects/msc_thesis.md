@@ -2,7 +2,7 @@
 layout: page
 title: "MSc Thesis - Geographical Question Answering Leveraging Neural Language Models for Passage Retrieval"
 enable_hyperlink: true
-img: assets/img/msc-thesis.jpg
+#img: assets/img/msc-thesis.jpg
 redirect: https://jmvcoelho.github.io/assets/pdf/tese.pdf
 description: |
 
