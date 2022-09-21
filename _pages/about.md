@@ -19,6 +19,4 @@ social: true  # includes social icons at the bottom of the page
 
 My research interests lie in the areas of Machine Learning, Natural Language Processing, and Information Retrieval.
 
-Currently working on the R&D project AppRecommender (P2020 39703), and also as a Teaching Assistant at Instituto Superior Técnico. 
-
-Looking forward to pursue a doctoral program. 
+Currently a PhD Candidate at <a href='https://deec.tecnico.ulisboa.pt/'>IST (DEEC)</a> and <a href='https://www.lti.cs.cmu.edu/'>CMU (LTI)</a>, under the dual degree CMU-Portugal program, supervised by <a href='http://web.ist.utl.pt/bruno.g.martins/'>Bruno Martins</a>, <a href='http://ctp.di.fct.unl.pt/~jmag/'>João Magalhães</a>, and <a href='http://www.cs.cmu.edu/~callan/'>Jamie Callan</a>. Working on long document retrieval leveraging efficient transformer architectures, and as a Teaching Assistant at Instituto Superior Técnico. 
