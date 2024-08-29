@@ -8,9 +8,9 @@ profile:
   align: right
   image: photo.jpg
   address: >
-    <p>(+351) 93 96 76 355</p>
-    <p>Lisbon, Portugal</p>
+    <p>GHC 5701, 5000 Forbes Ave, Pittsburgh, PA</p>
     <a href="https://jmvcoelho.github.io/assets/pdf/cv.pdf">Download CV</a>
+    <a href="https://scholar.google.com/citations?user=66CKQAsAAAAJ&hl=en">Google Scholar</a>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
